@@ -23,13 +23,16 @@ Nous retrouvons donc deux interfaces Windows Forms :
 
 
 La première permet à un enseignant (et uniquement à un enseignant) de se connecter à l'application.
-<a href="http://zupimages.net/viewer.php?id=19/15/9ery.png"><img src="https://zupimages.net/up/19/15/9ery.png" alt="" /></a>
+<a href="http://zupimages.net/viewer.php?id=19/15/9ery.png"><img src="https://zupimages.net/up/19/15/9ery.png" alt="" /></a><br>
 La seconde est donc l'interface principale. Nous y retrouvons :
 <a href="http://zupimages.net/viewer.php?id=19/15/kx55.png"><img src="https://zupimages.net/up/19/15/kx55.png" alt="" /></a>
-Choix du csv à utiliser.
-Choix de l'année scolaire.
-Choix du niveau scolaire.
+<ul>
+  <li>Choix du csv à utiliser</li>
+  <li>Choix de l'année scolaire</li>
+  <li>Choix du niveau scolaire</li>
+  <li>Choix de la génération du mot de passe</li>
+</ul>
 Choix de la génération du mot de passe.
-Schéma de la base de données
+<h2>Schéma de la base de données</h2>
 Capture.png
 Capture.png
