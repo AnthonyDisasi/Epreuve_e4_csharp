@@ -13,18 +13,17 @@ Visual Studio
 C#
 Windows Form
 Cas d'utilisation
-Capture.png
+<a href="http://zupimages.net/viewer.php?id=19/15/d7m5.png"><img src="https://zupimages.net/up/19/15/d7m5.png" alt="" /></a>
 
 Diagrammes de classe
-Capture2.png
-Capture3.png
-
+<a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
+<a href="http://zupimages.net/viewer.php?id=19/15/nf78.png"><img src="https://zupimages.net/up/19/15/nf78.png" alt="" /></a>
 Développement
 Nous retrouvons donc deux interfaces Windows Forms :
 
-Capture.png
-La première permet à un enseignant (et uniquement à un enseignant) de se connecter à l'application.
 
+La première permet à un enseignant (et uniquement à un enseignant) de se connecter à l'application.
+<a href="http://zupimages.net/viewer.php?id=19/15/fhyo.png"><img src="https://zupimages.net/up/19/15/fhyo.png" alt="" /></a>
 Capture2.png
 La seconde est donc l'interface principale. Nous y retrouvons :
 
