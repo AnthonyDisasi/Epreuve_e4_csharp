@@ -32,7 +32,4 @@ La seconde est donc l'interface principale. Nous y retrouvons :
   <li>Choix du niveau scolaire</li>
   <li>Choix de la génération du mot de passe</li>
 </ul>
-Choix de la génération du mot de passe.
-<h2>Schéma de la base de données</h2>
-Capture.png
-Capture.png
+
