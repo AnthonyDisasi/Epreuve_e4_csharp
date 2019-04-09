@@ -24,7 +24,6 @@ Nous retrouvons donc deux interfaces Windows Forms :
 
 La première permet à un enseignant (et uniquement à un enseignant) de se connecter à l'application.
 <a href="http://zupimages.net/viewer.php?id=19/15/fhyo.png"><img src="https://zupimages.net/up/19/15/fhyo.png" alt="" /></a>
-Capture2.png
 La seconde est donc l'interface principale. Nous y retrouvons :
 
 Choix d'un répertoire contenant des csv.
