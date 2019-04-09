@@ -18,15 +18,14 @@ Windows Form
 <h2>Diagrammes de classe</h2>
 <a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
 <a href="http://zupimages.net/viewer.php?id=19/15/nf78.png"><img src="https://zupimages.net/up/19/15/nf78.png" alt="" /></a>
-<h2>wDéveloppement</h2>
+<h2>Développement</h2>
 Nous retrouvons donc deux interfaces Windows Forms :
 
 
 La première permet à un enseignant (et uniquement à un enseignant) de se connecter à l'application.
-<a href="http://zupimages.net/viewer.php?id=19/15/fhyo.png"><img src="https://zupimages.net/up/19/15/fhyo.png" alt="" /></a>
+<a href="http://zupimages.net/viewer.php?id=19/15/9ery.png"><img src="https://zupimages.net/up/19/15/9ery.png" alt="" /></a>
 La seconde est donc l'interface principale. Nous y retrouvons :
-
-Choix d'un répertoire contenant des csv.
+<a href="http://zupimages.net/viewer.php?id=19/15/kx55.png"><img src="https://zupimages.net/up/19/15/kx55.png" alt="" /></a>
 Choix du csv à utiliser.
 Choix de l'année scolaire.
 Choix du niveau scolaire.
