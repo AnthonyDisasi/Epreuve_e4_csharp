@@ -18,7 +18,7 @@ Windows Form
 <h2>Diagrammes de classe</h2>
 <a href="http://zupimages.net/viewer.php?id=19/15/723o.png"><img src="https://zupimages.net/up/19/15/723o.png" alt="" /></a>
 <a href="http://zupimages.net/viewer.php?id=19/15/nf78.png"><img src="https://zupimages.net/up/19/15/nf78.png" alt="" /></a>
-Développement
+<h2<wDéveloppement</h2>
 Nous retrouvons donc deux interfaces Windows Forms :
 
 
