@@ -21,7 +21,7 @@ namespace rallyeLecture
 
         static Connection()
         {
-            sConnection = "host=localhost; database=rallyelecture; user=root; password=;SslMode=none";
+            sConnection = "host=localhost; database=rallyelecture; user=root; password=root;";
             cnx = new MySqlConnection(sConnection);
         }
         public static void Ouvrir()

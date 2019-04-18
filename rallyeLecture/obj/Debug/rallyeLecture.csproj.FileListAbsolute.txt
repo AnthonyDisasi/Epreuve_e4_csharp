@@ -26,3 +26,16 @@ C:\Users\Rkhar\OneDrive\Documents\WorkSpaceDev\c#\rallyeLecture\rallyeLecture\bi
 C:\Users\Rkhar\OneDrive\Documents\WorkSpaceDev\c#\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.CopyComplete
 C:\Users\Rkhar\OneDrive\Documents\WorkSpaceDev\c#\rallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Form2.resources
 C:\Users\Rkhar\OneDrive\Documents\WorkSpaceDev\c#\rallyeLecture\rallyeLecture\bin\Debug\MySql.Data.dll
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.exe
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.pdb
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe.config
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.exe
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\bin\Debug\rallyeLecture.pdb
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\bin\Debug\MySql.Data.xml
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csprojAssemblyReference.cache
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Form1.resources
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Form2.resources
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.Properties.Resources.resources
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.cache
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.CoreCompileInputs.cache
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.CopyComplete
