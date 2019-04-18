@@ -37,3 +37,6 @@ Le CSV contient une liste d'élève avec leurs noms et prénoms, une fois le pro
   <li>Choix de la génération du mot de passe</li>
 </ul>
 
+## Une fois l'intégration lancée on obtient le CSV ci-dessous
+
+<a href="https://www.noelshack.com/2019-16-4-1555572537-use-case.png"><img src="https://image.noelshack.com/minis/2019/16/4/1555572537-use-case.png"></a>

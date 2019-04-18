@@ -39,3 +39,5 @@ C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\r
 C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.GenerateResource.cache
 C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.CoreCompileInputs.cache
 C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\obj\Debug\rallyeLecture.csproj.CopyComplete
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\bin\Debug\MySql.Data.dll
+C:\Users\nasfa\OneDrive\Epreuve_e4\rprog\RallyeLecture\rallyeLecture\bin\Debug\Google.Protobuf.dll

@@ -13,9 +13,9 @@ namespace rallyeLecture
 
         public static MySqlConnection GetCnx()
         {
-           
+          
                 return Connection.cnx;
-            
+         
         }
         static private string sConnection;
 

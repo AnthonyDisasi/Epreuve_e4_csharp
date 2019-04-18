@@ -67,7 +67,7 @@ namespace rallyeLecture
             lesEleves lesEleves = new lesEleves();
             TableEleve tableEleve = new TableEleve();
             TableClasse tableClasse = new TableClasse();
-           Classe classe = new Classe(1,Convert.ToInt32(niveauLabel.Tag.ToString()), anneeScolaire.Text);
+            Classe classe = new Classe(1,Convert.ToInt32(niveauLabel.Tag.ToString()), anneeScolaire.Text);
             tableClasse.Insert(classe);
             if (Aleatoire.Checked == true)
                 choixPass = PassWordType.Aleatoire;
