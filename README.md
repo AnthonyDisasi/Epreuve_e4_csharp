@@ -39,4 +39,4 @@ Le CSV contient une liste d'élève avec leurs noms et prénoms, une fois le pro
 
 ## Une fois l'intégration lancée on obtient le CSV ci-dessous
 
-<a href="https://www.noelshack.com/2019-16-4-1555579004-csveleve.png"><img src="https://image.noelshack.com/minis/2019/16/4/1555579004-csveleve.png" style="border:0;" alt="1555579004-csveleve.png - envoi d'image avec NoelShack" title="1555579004-csveleve.png"/></a>
+![csveleve.png](https://image.noelshack.com/fichiers/2019/16/4/1555579004-csveleve.png)
