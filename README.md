@@ -1,6 +1,8 @@
-<h1>Rallye Lecture | Situation 1</h1> 
+## MMADI Nasfahdine BTS SIO 2 
 
-## Windows Form
+<h1>Rallye Lecture | Situation 1</h1>
+
+## Windows Form C#
 
 Cette situation a pour but de coder une application Windows Form en C# qui permet à un professeur d'alimenter une base de données à l'aide d'un fichier csv. 
 Le CSV contient une liste d'élève avec leurs noms et prénoms, une fois le programme exécuté un nouveau fichier CSV est créer avec leur identifiant d'accès au site et un mot de passe.
